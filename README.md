@@ -1,1 +1,1 @@
-# Circuit_3
+This is an experiment from my university lab II course, but I have decided to keep it separate due to an anomalous phenomenon. I attribute this phenomenon to a lack of calibration of the probe used, resulting in a decoupling of the RC-RC circuit. If you are interested and would like to contribute to understanding it, please check it out [here]().
